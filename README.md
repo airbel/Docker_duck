@@ -102,3 +102,5 @@ db.people.find({ name: "圭圭" })
 
 [Mongo 指令](https://docs.mongodb.com/manual/tutorial/insert-documents/)
 
+[W3 Javascript 方式](https://www.w3schools.com/nodejs/nodejs_mongodb_insert.asp)
+
