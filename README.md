@@ -98,5 +98,9 @@ db.people.find({ name: "圭圭" })
 ```
 
 以上參考
-[J.Js 的Blog](https://morosedog.gitlab.io/docker-20190504-docker11/).
+[J.Js 的Blog](https://morosedog.gitlab.io/docker-20190504-docker11/)
+
+[Mongo 指令](https://docs.mongodb.com/manual/tutorial/insert-documents/)
+
+[W3 Javascript 方式](https://www.w3schools.com/nodejs/nodejs_mongodb_insert.asp)
 
